@@ -1,3 +1,3 @@
 # ZS
 
-Website: https://bs.mintimpuls.org/ZS/
+Website: [Zitat Shuffle](https://spacmum.uber.space)
