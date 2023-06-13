@@ -19,9 +19,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][https://github.com/R3aperTheDev/ZS/forks]
-[![Stargazers][stars-shield]][https://github.com/R3aperTheDev/ZS/stargazers]
-[![Issues][issues-shield]][https://github.com/R3aperTheDev/ZS/issues]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -40,7 +40,7 @@
   <p align="center">
     project_description
     <br />
-        Read me still work in progress
+        Read me still work in
     <br />
     <a href="https://github.com/R3aperTheDev/ZS"><strong>Explore the docs »</strong></a>
     <br />
