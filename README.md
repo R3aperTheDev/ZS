@@ -19,9 +19,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][https://github.com/R3aperTheDev/ZS/forks]
+[![Stargazers][stars-shield]][https://github.com/R3aperTheDev/ZS/stargazers]
+[![Issues][issues-shield]][https://github.com/R3aperTheDev/ZS/issues]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
