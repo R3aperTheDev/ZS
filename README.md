@@ -36,21 +36,14 @@
 
 <h3 align="center">Zitat Shuffle</h3>
 
-  <p align="center">
-    Website: 
-    <br />
-    [More Funktional](https://bs.mintimpuls.org/ZS/)
-    <br />
-    [WIP LINK](https://spacmum.uber.space)   
-    <br />
-  </p>
+
   <p align="center">
     project_description
     <br />
     <a href="https://github.com/R3aperTheDev/ZS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/R3aperTheDev/ZS">View Demo</a>
+    <a href="https://bs.mintimpuls.org/ZS/">View Demo</a>
     ·
     <a href="https://github.com/R3aperTheDev/ZS/issues">Report Bug</a>
     ·
