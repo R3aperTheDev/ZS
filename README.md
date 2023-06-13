@@ -40,6 +40,8 @@
   <p align="center">
     project_description
     <br />
+        Read me still work in progress
+    <br />
     <a href="https://github.com/R3aperTheDev/ZS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
