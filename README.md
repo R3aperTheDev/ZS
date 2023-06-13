@@ -1,3 +1,5 @@
 # ZS
 
-Website: [Zitat Shuffle](https://spacmum.uber.space)
+Website: 
+[More Funktional](https://bs.mintimpuls.org/ZS/)
+[WIP LINK](https://spacmum.uber.space)
